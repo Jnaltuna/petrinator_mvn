@@ -1,0 +1,3 @@
+Clone monitor repository. Rename to java_petri_engine if different.
+Clone petrinator repository. Rename to Petri_Net_Simulator if different
+'mvn clean package' to generate jar file
