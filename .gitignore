@@ -1,0 +1,6 @@
+.idea/
+Petri_Net_Simulator/
+.commands.txt
+java_petri_engine/
+tmp/
+petrinator.iml
